@@ -1,0 +1,21 @@
+{
+  "buildFiles": [
+    "F:\\android_code\\FmodTest\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\android_code\\FmodTest\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-x86_64": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build F:\\android_code\\FmodTest\\app\\.externalNativeBuild\\cmake\\debug\\x86_64 --target native-lib",
+      "abi": "x86_64",
+      "output": "F:\\android_code\\FmodTest\\app\\build\\intermediates\\cmake\\debug\\obj\\x86_64\\libnative-lib.so"
+    },
+    "fmod-Debug-x86_64": {
+      "artifactName": "fmod",
+      "abi": "x86_64",
+      "output": "..\\..\\..\\..\\libs\\x86_64\\libfmod.so"
+    }
+  }
+}
