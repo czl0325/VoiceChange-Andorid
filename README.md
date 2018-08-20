@@ -83,9 +83,9 @@ public native static int playSound(String path,int type);
 
 播放声音分5个步骤：
 
-1.System_Create创建一个system
-2.init初始化
-3.createSound创建一个声音
-4.playSound播放声音
-5.system->update();执行后声音才能播放出去。
+1.System_Create创建一个system<br>
+2.init初始化<br>
+3.createSound创建一个声音<br>
+4.playSound播放声音<br>
+5.system->update();执行后声音才能播放出去。<br>
 第四步->第五步之间可以添加一些声音的特殊处理。
